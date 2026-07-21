@@ -22,42 +22,24 @@
 <br/>
 
 <p align="center">
-  <a href="#"><img src="https://komarev.com/ghpvc/?username=Ayush120704&label=Profile%20Views&color=0e75b6&style=flat-square" /></a>
-  <a href="https://github.com/Ayush120704?tab=followers"><img src="https://img.shields.io/github/followers/Ayush120704?label=Followers&style=flat-square&color=blue" /></a>
-  <a href="https://github.com/Ayush120704"><img src="https://img.shields.io/github/stars/Ayush120704?label=Stars&style=flat-square&color=yellow" /></a>
-  <a href="https://github.com/Ayush120704?tab=repositories"><img src="https://img.shields.io/badge/Repos-9-blue?style=flat-square" /></a>
-  <a href="https://leetcode.com/u/ayushmishra12345/"><img src="https://img.shields.io/badge/151%E2%80%91day%20streak-%23DD6B20?style=flat-square" /></a>
+  <img src="https://img.shields.io/github/stars/Ayush120704?style=for-the-badge&logo=github&color=yellow&label=Stars" />
+  <img src="https://img.shields.io/github/followers/Ayush120704?style=for-the-badge&logo=github&color=blue&label=Followers" />
+  <img src="https://img.shields.io/badge/Repos-9-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/151%E2%80%91day%20streak-%23DD6B20?style=for-the-badge&logo=leetcode&label=LeetCode" />
+  <img src="https://komarev.com/ghpvc/?username=Ayush120704&label=Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ayush120704&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&bg_color=0D1117&hide_title=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ayush120704&show_icons=true&include_all_commits=true&count_private=true&border_radius=12&hide_title=true" />
-        <img width="100%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ayush120704&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&bg_color=0D1117&hide_title=true" />
-      </picture>
-    </td>
-    <td align="center" width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush120704&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&bg_color=0D1117&hide_title=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush120704&layout=compact&langs_count=8&border_radius=12&hide_title=true" />
-        <img width="100%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush120704&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&bg_color=0D1117&hide_title=true" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Ayush120704&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Ayush120704&hide_border=true&border_radius=12" />
-    <img width="85%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Ayush120704&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117" />
-  </picture>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 ---
