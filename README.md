@@ -96,16 +96,17 @@ currently_learning: ["LLM Fine-tuning", "RAG Pipelines", "System Design"]
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/Ayush120704/AI-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush120704&repo=AI-Assistant&theme=tokyonight&border_radius=10&bg_color=0D1117" /></a>
-  <a href="https://github.com/Ayush120704/Neurowell-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush120704&repo=Neurowell-Project&theme=tokyonight&border_radius=10&bg_color=0D1117" /></a>
-  <a href="https://github.com/Ayush120704/AI_Interview_Coach"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush120704&repo=AI_Interview_Coach&theme=tokyonight&border_radius=10&bg_color=0D1117" /></a>
-  <a href="https://github.com/Ayush120704/Legal-Lens"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush120704&repo=Legal-Lens&theme=tokyonight&border_radius=10&bg_color=0D1117" /></a>
-  <a href="https://github.com/Ayush120704/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush120704&repo=portfolio&theme=tokyonight&border_radius=10&bg_color=0D1117" /></a>
-  <a href="https://github.com/Ayush120704/Djangowithpython"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush120704&repo=Djangowithpython&theme=tokyonight&border_radius=10&bg_color=0D1117" /></a>
-</div>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [🧠 NeuroWell](https://github.com/Ayush120704/Neurowell-Project) | Multimodal mental health companion — facial emotion recognition + NLP cognitive distortion detection with RAG pipeline | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [🤖 AI Assistant](https://github.com/Ayush120704/AI-Assistant) | Multi-turn conversational AI with MERN stack, persistent sessions, and real-time NLP inference | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| [🎙️ AI Interview Coach](https://github.com/Ayush120704/AI_Interview_Coach) | AI-powered interview preparation platform | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [⚖️ Legal Lens](https://github.com/Ayush120704/Legal-Lens) | Legal document analysis and insights platform | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [🌐 Portfolio](https://github.com/Ayush120704/portfolio) | Personal portfolio site built with TypeScript | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [🐍 Django with Python](https://github.com/Ayush120704/Djangowithpython) | Django web applications and projects | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [🏠 Real State Project](https://github.com/Ayush120704/Real_State_Project) | Responsive real-world property listing platform | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
-> 💡 *New repos appear here automatically — just push code and the cards update live via the GitHub API.*
+> 💡 *This table auto-updates — create a new repo and it'll appear here on the next README refresh.*
 
 ---
 
