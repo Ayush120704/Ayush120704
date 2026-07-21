@@ -1,0 +1,36 @@
+name: Update LeetCode Stats
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fetch LeetCode stats and generate SVG
+        run: node scripts/fetch-leetcode-stats.js
+
+      - name: Check if SVG changed
+        id: svg-check
+        run: |
+          git diff --quiet leetcode-stats.svg || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push if changed
+        if: steps.svg-check.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add leetcode-stats.svg
+          git commit -m "chore: update leetcode stats [skip ci]"
+          git push
