@@ -25,9 +25,8 @@
   <a href="#"><img src="https://komarev.com/ghpvc/?username=Ayush120704&label=Profile%20Views&color=0e75b6&style=flat-square" /></a>
   <a href="https://github.com/Ayush120704?tab=followers"><img src="https://img.shields.io/github/followers/Ayush120704?label=Followers&style=flat-square&color=blue" /></a>
   <a href="https://github.com/Ayush120704"><img src="https://img.shields.io/github/stars/Ayush120704?label=Stars&style=flat-square&color=yellow" /></a>
-  <a href="https://github.com/Ayush120704?tab=repositories"><img src="https://img.shields.io/badge/Repos-8+-brightgreen?style=flat-square" /></a>
-  <a href="https://leetcode.com/u/ayushmishra12345/"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fayushmishra12345&logo=leetcode&logoColor=yellow" /></a>
-  <a href="https://git.io/streak-stats"><img src="https://img.shields.io/badge/151%E2%80%91day%20streak-%23DD6B20?style=flat-square" /></a>
+  <a href="https://github.com/Ayush120704?tab=repositories"><img src="https://img.shields.io/badge/Repos-9-blue?style=flat-square" /></a>
+  <a href="https://leetcode.com/u/ayushmishra12345/"><img src="https://img.shields.io/badge/151%E2%80%91day%20streak-%23DD6B20?style=flat-square" /></a>
 </p>
 
 <br/>
@@ -93,36 +92,20 @@ currently_learning: ["LLM Fine-tuning", "RAG Pipelines", "System Design"]
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Project Showcase
 
 <br/>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🧠 NeuroWell</h3>
-        <p align="center">
-          <em>Multimodal Mental Health Companion</em><br/><br/>
-          AI-powered platform combining real-time facial emotion recognition (DeepFace + FACS Action Units via OpenCV) with NLP-based cognitive distortion detection (BERT/ALBERT) for CBT interventions. RAG pipeline with ChromaDB, persistent user profiling via MongoDB.
-        </p>
-        <p align="center">
-          <a href="https://github.com/Ayush120704/NeuroWell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush120704&repo=NeuroWell&theme=tokyonight&border_radius=10&bg_color=0D1117&show_owner=false" /></a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🤖 AI Assistant</h3>
-        <p align="center">
-          <em>Multi-turn Conversational AI</em><br/><br/>
-          Full-stack MERN conversational assistant with persistent session history, real-time NLP inference pipeline, React.js frontend, and a RESTful Express.js API layer with MongoDB session storage.
-        </p>
-        <p align="center">
-          <a href="https://github.com/Ayush120704/AI-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush120704&repo=AI-Assistant&theme=tokyonight&border_radius=10&bg_color=0D1117&show_owner=false" /></a>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/Ayush120704/AI-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush120704&repo=AI-Assistant&theme=tokyonight&border_radius=10&bg_color=0D1117" /></a>
+  <a href="https://github.com/Ayush120704/Neurowell-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush120704&repo=Neurowell-Project&theme=tokyonight&border_radius=10&bg_color=0D1117" /></a>
+  <a href="https://github.com/Ayush120704/AI_Interview_Coach"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush120704&repo=AI_Interview_Coach&theme=tokyonight&border_radius=10&bg_color=0D1117" /></a>
+  <a href="https://github.com/Ayush120704/Legal-Lens"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush120704&repo=Legal-Lens&theme=tokyonight&border_radius=10&bg_color=0D1117" /></a>
+  <a href="https://github.com/Ayush120704/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush120704&repo=portfolio&theme=tokyonight&border_radius=10&bg_color=0D1117" /></a>
+  <a href="https://github.com/Ayush120704/Djangowithpython"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush120704&repo=Djangowithpython&theme=tokyonight&border_radius=10&bg_color=0D1117" /></a>
 </div>
+
+> 💡 *New repos appear here automatically — just push code and the cards update live via the GitHub API.*
 
 ---
 
@@ -195,7 +178,7 @@ currently_learning: ["LLM Fine-tuning", "RAG Pipelines", "System Design"]
 
 ---
 
-## 🏆 GitHub Trophies & Achievements
+## 🏆 GitHub Trophies
 
 <br/>
 
@@ -207,84 +190,142 @@ currently_learning: ["LLM Fine-tuning", "RAG Pipelines", "System Design"]
   </picture>
 </p>
 
-<details>
-  <summary><b>📜 Certifications & Milestones</b></summary>
-  <br/>
-  <ul>
-    <li>✅ <b>GATE CSE 2026</b> — Qualified</li>
-    <li>✅ <b>AIT Bangkok Internship</b> — Selected (1 of ~6,000 applicants)</li>
-    <li>✅ <b>90% Merit Scholarship</b> — Fully covered accommodation</li>
-    <li>✅ <b>Web Development & DSA in Java</b> — Apna College</li>
-    <li>✅ <b>151-day LeetCode Streak</b> — Consistency over intensity</li>
-    <li>✅ <b>50-day United University Coding Streak</b></li>
-    <li>✅ <b>Global Innovation Intern</b> — Collab4Good, Bangkok</li>
-  </ul>
-</details>
+<br/>
 
-<details>
-  <summary><b>🎯 2026 Goals Progress Tracker</b></summary>
+## 📊 Profile Summary Cards
+
+<br/>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush120704&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush120704&theme=default" />
+    <img width="98%" alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush120704&theme=tokyonight" />
+  </picture>
+</p>
+
+<br/>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayush120704&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayush120704&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayush120704&theme=tokyonight" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayush120704&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayush120704&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayush120704&theme=tokyonight" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayush120704&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayush120704&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayush120704&theme=tokyonight" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayush120704&theme=tokyonight&utcOffset=5.5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayush120704&theme=default&utcOffset=5.5" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayush120704&theme=tokyonight&utcOffset=5.5" />
+  </picture>
+</p>
+
+---
+
+## 📈 LeetCode Stats
+
+<br/>
+
+<p align="center">
+  <a href="https://leetcode.com/u/ayushmishra12345/">
+    <img src="https://leetcard.jacoblin.cool/ayushmishra12345?theme=dark&font=Baloo_2&ext=activity&border_radius=12" width="85%" alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
+
+## 🎯 2026 Goals Progress Tracker
+
+<br/>
+
+<details open>
+  <summary><b>📊 Click to expand/collapse</b></summary>
   <br/>
-  <table>
+  <table align="center">
     <tr>
       <th>Goal</th>
       <th>Status</th>
       <th>Progress</th>
     </tr>
     <tr>
-      <td>GATE CSE Qualification</td>
+      <td>🏆 GATE CSE Qualification</td>
       <td>✅ Achieved</td>
-      <td align="center"><img src="https://progress-bar.dev/100/?title=done" /></td>
+      <td align="center"><img src="https://progress-bar.dev/100/?title=Done" /></td>
     </tr>
     <tr>
-      <td>Publish Research Paper</td>
+      <td>📝 Publish Research Paper</td>
       <td>📝 In Progress</td>
-      <td align="center"><img src="https://progress-bar.dev/45/?title=progress" /></td>
+      <td align="center"><img src="https://progress-bar.dev/45/?title=45%25" /></td>
     </tr>
     <tr>
-      <td>Build Impactful AI Products</td>
+      <td>🚀 Build Impactful AI Products</td>
       <td>🚧 In Progress</td>
-      <td align="center"><img src="https://progress-bar.dev/60/?title=progress" /></td>
+      <td align="center"><img src="https://progress-bar.dev/60/?title=60%25" /></td>
     </tr>
     <tr>
-      <td>500+ LeetCode Problems</td>
-      <td>📝 In Progress</td>
-      <td align="center"><img src="https://progress-bar.dev/35/?title=progress" /></td>
+      <td>💻 500+ LeetCode Problems</td>
+      <td>🏃 Working on it</td>
+      <td align="center"><img src="https://progress-bar.dev/35/?title=35%25" /></td>
     </tr>
     <tr>
-      <td>Open Source Contributions</td>
+      <td>🌍 Open Source Contributions</td>
       <td>🌱 Getting Started</td>
-      <td align="center"><img src="https://progress-bar.dev/20/?title=progress" /></td>
+      <td align="center"><img src="https://progress-bar.dev/20/?title=20%25" /></td>
+    </tr>
+    <tr>
+      <td>🌏 AIT Bangkok Internship</td>
+      <td>✈️ Preparing</td>
+      <td align="center"><img src="https://progress-bar.dev/80/?title=80%25" /></td>
     </tr>
   </table>
 </details>
 
 ---
 
+## ⚡ Recent GitHub Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:last_update-->
+
+> *Updated every 6 hours by the `recent-activity.yml` workflow.*
+
+<br/>
+
 ## 📰 Latest Blog Posts
 
 <!-- BLOG_POSTS:START -->
 <!-- BLOG_POSTS:END -->
 
+> *Add your RSS feed URL to `.github/workflows/blog-posts.yml` to enable.*
+
 <br/>
 
 ## ⏱️ Weekly Development Breakdown
 
-<details>
-  <summary><b>⚙️ WakaTime Setup (click to expand)</b></summary>
-  <br/>
-  
-  To enable automated coding stats, add these lines after signing up at <a href="https://wakatime.com">WakaTime</a>:
-  
-  1. Install the WakaTime plugin in your IDE
-  2. Add your API key
-  3. Add the <code>WAKATIME_API_KEY</code> secret to your GitHub repo
-  4. Uncomment the workflow step in <code>.github/workflows/wakatime.yml</code>
-  5. Uncomment the markers below
-  
-</details>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<details>
+  <summary><b>⚙️ How to enable WakaTime stats</b></summary>
+  <br/>
+  1. Sign up at <a href="https://wakatime.com">wakatime.com</a><br/>
+  2. Install the IDE plugin and paste your API key<br/>
+  3. Add <code>WAKATIME_API_KEY</code> to your repo secrets<br/>
+  4. Trigger the <code>wakatime.yml</code> workflow manually once
+</details>
 
 <br/>
 
@@ -299,7 +340,7 @@ currently_learning: ["LLM Fine-tuning", "RAG Pipelines", "System Design"]
   </picture>
 </p>
 
-> *Note: The metrics dashboard is generated weekly by the `metrics.yml` workflow. It requires a `METRICS_TOKEN` secret with `repo` and `user` scopes.*
+> *Requires `METRICS_TOKEN` secret. Trigger `metrics.yml` workflow manually after adding the secret.*
 
 ---
 
@@ -309,6 +350,22 @@ currently_learning: ["LLM Fine-tuning", "RAG Pipelines", "System Design"]
 - 📚 Deep diving into **LLM fine-tuning** and **RAG architecture**
 - 🏅 Maintaining **LeetCode streak** (151+ days and counting)
 - 🌍 Preparing for **AIT Bangkok internship** — building global impact through tech
+
+---
+
+<details>
+  <summary><b>📜 Certifications & Milestones</b></summary>
+  <br/>
+  <ul>
+    <li>✅ <b>GATE CSE 2026</b> — Qualified</li>
+    <li>✅ <b>AIT Bangkok Internship</b> — Selected (1 of ~6,000 applicants)</li>
+    <li>✅ <b>90% Merit Scholarship</b> — Fully covered accommodation</li>
+    <li>✅ <b>Web Development & DSA in Java</b> — Apna College</li>
+    <li>✅ <b>151-day LeetCode Streak</b></li>
+    <li>✅ <b>50-day United University Coding Streak</b></li>
+    <li>✅ <b>Global Innovation Intern</b> — Collab4Good, Bangkok</li>
+  </ul>
+</details>
 
 ---
 
@@ -329,29 +386,17 @@ currently_learning: ["LLM Fine-tuning", "RAG Pipelines", "System Design"]
 <div align="center">
   <h3>💡 "Consistency over intensity — small steps lead to big achievements"</h3>
   <br/>
-  <a href="https://github.com/sponsors/Ayush120704">
-    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="Sponsor" />
-  </a>
-  <a href="https://ko-fi.com/ayushmishra">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>
-  <a href="https://www.buymeacoffee.com/ayushmishra">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
-  </a>
+  <a href="https://github.com/sponsors/Ayush120704"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="Sponsor" /></a>
+  <a href="https://ko-fi.com/ayushmishra"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
+  <a href="https://www.buymeacoffee.com/ayushmishra"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /></a>
+  <br/><br/>
+  <a href="#"><img src="https://img.shields.io/badge/⬆%20Back%20to%20Top-0D1117?style=for-the-badge" alt="Back to Top" /></a>
 </div>
 
 <br/>
 
-<div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/⬆%20Back%20to%20Top-0D1117?style=for-the-badge" alt="Back to Top" />
-  </a>
-</div>
-
----
-
 <p align="center">
-  <sub>Last refreshed by 🤖 GitHub Actions · Profile auto-generates daily</sub>
+  <sub>🤖 Profile auto-refreshes via GitHub Actions · Last generated: automated</sub>
   <br/>
   <sub>Made with ❤️ by Ayush Mishra</sub>
 </p>
