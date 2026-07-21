@@ -17,4 +17,4 @@ jobs:
         with:
           COMMIT_MSG: "chore: update recent activity"
           MAX_LINES: 10
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: Ayush120704   # <-- add your GitHub username here
