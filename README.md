@@ -1,27 +1,199 @@
-# 💫 About Me:
-### 🚀 About Me<br><br>- 🎓 B.Tech CSE @ United Institute of Technology, Prayagraj (2027) — 8.31 CGPA<br>- 🔬 Researching multimodal AI & NLP through **NeuroWell**, a mental-health companion combining facial emotion recognition + cognitive distortion detection<br>- 🌏 Global Innovation Intern @ Collab4Good, Bangkok — building NGO tech on the MERN stack<br>- 🏅 GATE CSE 2026 Qualified · Selected for AIT Bangkok internship (1 of ~6,000 applicants), 90% merit scholarship<br>- 🔥 151-day LeetCode streak — consistency over intensity<br>- 🤝 Open to collaborating on AI/ML, NLP, and full-stack projects<br><br>---<br><br>### 🛠️ Tech Stack<br><br><div align="center"><br><br>![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)<br>![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)<br>![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)<br>![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)<br>![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)<br>![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)<br>![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)<br>![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)<br>![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)<br>![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)<br><br></div><br><br>---<br><br>### 🚀 Featured Projects<br><br>**🧠 NeuroWell — Multimodal Mental Health Companion**<br>AI-powered digital wellness platform combining real-time facial emotion recognition (DeepFace + FACS Action Units via OpenCV) with NLP-based cognitive distortion detection (BERT/ALBERT) for contradiction-aware CBT interventions. RAG pipeline with ChromaDB for grounded, non-hallucinated responses. Persistent longitudinal user profiling via MongoDB.<br><br>**🤖 AI Assistant — Multi-turn Conversational AI**<br>Full-stack MERN conversational assistant with persistent session history, real-time NLP inference pipeline, React.js frontend, and a RESTful Express.js API layer.<br><br>---<br><br>### 📊 GitHub Stats<br><br><br><br><br><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush120704&theme=radical" alt="GitHub Streak" /><br><br><img src="[https://leetcode-stats-two.vercel.app/api?username=AyushMishra&theme=dark](https://leetcode.com/u/ayushmishra12345/)" /><br><br></div><br><br>---<br><br>### 🏆 Achievements<br><br>- ✅ GATE CSE 2026 Qualified<br>- ✅ Selected for Asian Institute of Technology (AIT) Bangkok internship — 1 of 5,000–6,000 applicants<br>- ✅ 90% merit scholarship with fully covered accommodation<br>- ✅ Web Development & DSA in Java — Apna College<br>- ✅ 151-day LeetCode streak · 50-day United University coding streak
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=80&lines=Hey+%F0%9F%91%8B%2C+I'm+Ayush+Mishra;AI+%26+ML+Researcher;Full-Stack+Developer;Open+Source+Contributor;GATE+CSE+2026+Qualified" alt="Typing SVG" />
+</div>
 
+<br/>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayumishra2024@gmail.com) 
+<div align="center">
+  <a href="https://www.linkedin.com/in/ayush-mishra-471a892a1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aayumishra2024@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/ayushmishra12345/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://ayush120704.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ayush120704&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Ayush120704&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ayush120704&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ayush120704&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ayush120704&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ayush120704&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ayush120704&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Ayush120704?label=Followers&style=social" alt="github followers" />
+  <img src="https://img.shields.io/github/stars/Ayush120704?label=Stars&style=social" alt="github stars" />
+</p>
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> About Me
+
+```yaml
+name: Ayush Mishra
+located_in: Prayagraj, India
+current_education: B.Tech CSE @ United Institute of Technology (2027) — CGPA: 8.31
+current_internship: Global Innovation Intern @ Collab4Good, Bangkok
+fields_of_interest:
+  [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Deep Learning",
+    "NLP",
+    "Computer Vision",
+    "Full-Stack Development"
+  ]
+technical_skills:
+  languages: ["Python", "Java", "JavaScript", "TypeScript", "C", "C++"]
+  ml_dl: ["PyTorch", "TensorFlow", "Keras", "scikit-learn", "HuggingFace", "OpenCV"]
+  data: ["NumPy", "Pandas", "Matplotlib", "SQLite", "MySQL", "MongoDB"]
+  web: ["React", "Next.js", "Node.js", "Express", "FastAPI", "TailwindCSS", "Three.js"]
+  tools: ["Git", "Docker", "Postman", "Jupyter", "Vercel", "Netlify"]
+currently_learning: ["LLM Fine-tuning", "RAG Pipelines", "System Design"]
+2026_goal: ["GATE CSE Qualified", "Publish Research Paper", "Build impactful AI products"]
+```
+
+<br/>
+
+## 🧠 Featured Projects
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Ayush120704/NeuroWell">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush120704&repo=NeuroWell&theme=tokyonight&border_radius=10&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/Ayush120704/AI-Assistant">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush120704&repo=AI-Assistant&theme=tokyonight&border_radius=10&bg_color=0D1117" />
+  </a>
+</div>
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🧠 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+### ☕ Languages & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Analytics
+
+<br/>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayush120704&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush120704&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&bg_color=0D1117" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush120704&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117" />
+</div>
+
+<br/>
+
+### 📈 Contribution Graph
+
+<br/>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush120704&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&radius=10" />
+</div>
+
+<br/>
+
+### 🐍 Contribution Snake
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ayush120704/Ayush120704/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ayush120704/Ayush120704/blob/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="GitHub contribution snake" src="https://github.com/Ayush120704/Ayush120704/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+---
+
+## 🏆 Achievements
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush120704&theme=radical&no-frame=true&no-bg=false&margin-w=8&row=2&column=4" width="98%" />
+</div>
+
+<br/>
+
+---
+
+## 📈 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!-- Add your WakaTime embed here -->
+<!--END_SECTION:waka-->
+
+<br/>
+
+## 🎯 Current Focus
+
+- 🔬 Building **NeuroWell** — multimodal mental health companion with facial emotion recognition + NLP cognitive distortion detection
+- 📚 Deep diving into **LLM fine-tuning** and **RAG architecture**
+- 🏅 Maintaining **LeetCode streak** (151+ days and counting)
+- 🌍 Preparing for **AIT Bangkok internship** — building global impact through tech
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" width="80%" />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <h3>💡 "Consistency over intensity — small steps lead to big achievements"</h3>
+  <br/>
+  <img src="https://img.shields.io/badge/Let's%20Connect!-blue?style=for-the-badge" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush120704&theme=github-compact&hide_border=true&area=true&hide_title=true" width="100%" />
+</div>
