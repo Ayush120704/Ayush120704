@@ -184,12 +184,19 @@ currently_learning: ["LLM Fine-tuning", "RAG Pipelines", "System Design"]
 <br/>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Ayush120704&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Ayush120704&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
-    <img width="98%" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Ayush120704&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
-  </picture>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://img.shields.io/badge/Trophy%20Case-View%20on%20GitHub-238636?style=for-the-badge&logo=github" /></a>
 </p>
+
+| Category | Badge |
+|----------|-------|
+| ⭐ Stars | ![Stars](https://img.shields.io/github/stars/Ayush120704?style=flat-square&color=yellow&label=Total) |
+| 🚀 Repos | ![Repos](https://img.shields.io/badge/Repos-9-blue?style=flat-square) |
+| 👥 Followers | ![Followers](https://img.shields.io/github/followers/Ayush120704?style=flat-square&color=blue) |
+| 🔥 Streak | ![Streak](https://img.shields.io/badge/151--day%20streak-active-orange?style=flat-square) |
+| 🏅 GATE CSE 2026 | ![GATE](https://img.shields.io/badge/GATE%20CSE%202026-Qualified-success?style=flat-square) |
+| 🌏 AIT Bangkok | ![AIT](https://img.shields.io/badge/AIT%20Bangkok-Selected-blueviolet?style=flat-square) |
+| 📊 LeetCode | ![LeetCode](https://img.shields.io/badge/LeetCode-151%20day%20streak-FFA116?style=flat-square&logo=leetcode) |
+| 🎓 Scholarship | ![Scholarship](https://img.shields.io/badge/90%25%20Merit%20Scholarship-Achieved-success?style=flat-square) |
 
 <br/>
 
@@ -329,18 +336,46 @@ currently_learning: ["LLM Fine-tuning", "RAG Pipelines", "System Design"]
 
 <br/>
 
-## 📊 Metrics Dashboard
+## 📊 Quick Stats
 
 <br/>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayush120704/Ayush120704/output/metrics/metrics.svg" />
-    <img alt="Metrics" src="https://raw.githubusercontent.com/Ayush120704/Ayush120704/output/metrics/metrics.svg" />
-  </picture>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/github--readme--stats-0D1117?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
-> *Requires `METRICS_TOKEN` secret. Trigger `metrics.yml` workflow manually after adding the secret.*
+<br/>
+
+<details>
+  <summary><b>⚙️ Advanced Metrics (requires GitHub token)</b></summary>
+  <br/>
+  The <code>metrics.yml</code> workflow generates a detailed SVG dashboard. To enable:
+  <br/><br/>
+  1. Generate a classic PAT at <a href="https://github.com/settings/tokens">github.com/settings/tokens</a> with <code>repo</code> + <code>user:read</code> scopes
+  <br/>
+  2. Add it as <code>METRICS_TOKEN</code> in <b>Settings → Secrets and variables → Actions</b>
+  <br/>
+  3. Go to <b>Actions → Metrics Dashboard → Run workflow</b>
+  <br/>
+  4. After it runs, the full dashboard will appear at the URL below:
+  <br/>
+  <code>https://raw.githubusercontent.com/Ayush120704/Ayush120704/output/metrics/metrics.svg</code>
+</details>
 
 ---
 
