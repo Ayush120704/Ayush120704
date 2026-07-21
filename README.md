@@ -229,8 +229,17 @@ currently_learning: ["LLM Fine-tuning", "RAG Pipelines", "System Design"]
 <br/>
 
 <p align="center">
+  <a href="https://leetcode.com/u/ayushmishra12345/"><img src="https://img.shields.io/badge/LeetCode-ayushmishra12345-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <img src="https://img.shields.io/badge/Streak-151%20days-%23DD6B20?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Rank-Active%20Coder-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Solved-~175%20problems-blue?style=for-the-badge&logo=leetcode" />
+</p>
+
+<br/>
+
+<p align="center">
   <a href="https://leetcode.com/u/ayushmishra12345/">
-    <img src="https://leetcard.jacoblin.cool/ayushmishra12345?theme=dark&font=Baloo_2&ext=activity&border_radius=12" width="85%" alt="LeetCode Stats" />
+    <img src="https://img.shields.io/badge/🎯%20View%20Full%20Profile-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />
   </a>
 </p>
 
