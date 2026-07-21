@@ -261,43 +261,16 @@ currently_learning: ["LLM Fine-tuning", "RAG Pipelines", "System Design"]
 <details open>
   <summary><b>📊 Click to expand/collapse</b></summary>
   <br/>
-  <table align="center">
-    <tr>
-      <th>Goal</th>
-      <th>Status</th>
-      <th>Progress</th>
-    </tr>
-    <tr>
-      <td>🏆 GATE CSE Qualification</td>
-      <td>✅ Achieved</td>
-      <td align="center"><img src="https://progress-bar.dev/100/?title=Done" /></td>
-    </tr>
-    <tr>
-      <td>📝 Publish Research Paper</td>
-      <td>📝 In Progress</td>
-      <td align="center"><img src="https://progress-bar.dev/45/?title=45%25" /></td>
-    </tr>
-    <tr>
-      <td>🚀 Build Impactful AI Products</td>
-      <td>🚧 In Progress</td>
-      <td align="center"><img src="https://progress-bar.dev/60/?title=60%25" /></td>
-    </tr>
-    <tr>
-      <td>💻 500+ LeetCode Problems</td>
-      <td>🏃 Working on it</td>
-      <td align="center"><img src="https://progress-bar.dev/35/?title=35%25" /></td>
-    </tr>
-    <tr>
-      <td>🌍 Open Source Contributions</td>
-      <td>🌱 Getting Started</td>
-      <td align="center"><img src="https://progress-bar.dev/20/?title=20%25" /></td>
-    </tr>
-    <tr>
-      <td>🌏 AIT Bangkok Internship</td>
-      <td>✈️ Preparing</td>
-      <td align="center"><img src="https://progress-bar.dev/80/?title=80%25" /></td>
-    </tr>
-  </table>
+
+| Goal | Status | Progress |
+|------|--------|----------|
+| 🏆 GATE CSE Qualification | ✅ Achieved | ![](https://img.shields.io/badge/100%25-Done-success?style=flat-square) |
+| 📝 Publish Research Paper | 📝 In Progress | ![](https://img.shields.io/badge/45%25-Writing-orange?style=flat-square) |
+| 🚀 Build Impactful AI Products | 🚧 In Progress | ![](https://img.shields.io/badge/60%25-Building-blue?style=flat-square) |
+| 💻 500+ LeetCode Problems | 🏃 Working on it | ![](https://img.shields.io/badge/35%25-Solving-yellow?style=flat-square) |
+| 🌍 Open Source Contributions | 🌱 Getting Started | ![](https://img.shields.io/badge/20%25-Learning-lightgrey?style=flat-square) |
+| 🌏 AIT Bangkok Internship | ✈️ Preparing | ![](https://img.shields.io/badge/80%25-Ready-blueviolet?style=flat-square) |
+
 </details>
 
 ---
