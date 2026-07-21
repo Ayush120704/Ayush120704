@@ -1,0 +1,23 @@
+name: Latest Blog Posts
+on:
+  schedule:
+    - cron: "0 6 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: BLOG_POSTS
+          max_post_count: 5
+          feed_list: ""
+          template: "$newline - $randomEmoji(🎯,💡,🚀,📖) [$title]($url) — $date"
+          date_format: "yyyy-mm-dd"
+          commit_message: "chore: update recent blog posts"
