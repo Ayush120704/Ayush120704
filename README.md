@@ -228,40 +228,40 @@ currently_learning: ["LLM Fine-tuning", "RAG Pipelines", "System Design"]
 
 <br/>
 
-<p align="center">
-  <a href="https://leetcode.com/u/ayushmishra12345/"><img src="https://img.shields.io/badge/LeetCode-ayushmishra12345-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <img src="https://img.shields.io/badge/Streak-151%20days-%23DD6B20?style=for-the-badge" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/ayushmishra12345/solved&query=$.solvedProblem&label=Total&color=blue&style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/ayushmishra12345/solved&query=$.easySolved&label=Easy&color=brightgreen&style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/ayushmishra12345/solved&query=$.mediumSolved&label=Medium&color=orange&style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/ayushmishra12345/solved&query=$.hardSolved&label=Hard&color=red&style=for-the-badge&logo=leetcode" />
-</p>
-
-<br/>
-
 <div align="center">
-  
-| Difficulty | Solved |
-|------------|--------|
-| 🟢 Easy | ![](https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/ayushmishra12345/solved&query=$.easySolved&label=&color=brightgreen&style=flat-square) |
-| 🟠 Medium | ![](https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/ayushmishra12345/solved&query=$.mediumSolved&label=&color=orange&style=flat-square) |
-| 🔴 Hard | ![](https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/ayushmishra12345/solved&query=$.hardSolved&label=&color=red&style=flat-square) |
-| **📊 Total** | ![](https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/ayushmishra12345/solved&query=$.solvedProblem&label=&color=blue&style=flat-square) |
-
+  <table>
+    <tr>
+      <td colspan="4" align="center">
+        <a href="https://leetcode.com/u/ayushmishra12345/">
+          <img src="https://img.shields.io/badge/LeetCode-ayushmishra12345-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+        </a>
+        <br/>
+        <img src="https://img.shields.io/badge/151%E2%80%91day%20streak-%23DD6B20?style=flat-square" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <b>🟢 Easy</b><br/>
+        <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/ayushmishra12345/solved&query=$.easySolved&label=&color=brightgreen&style=for-the-badge" />
+      </td>
+      <td align="center" width="90">
+        <b>🟠 Medium</b><br/>
+        <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/ayushmishra12345/solved&query=$.mediumSolved&label=&color=orange&style=for-the-badge" />
+      </td>
+      <td align="center" width="90">
+        <b>🔴 Hard</b><br/>
+        <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/ayushmishra12345/solved&query=$.hardSolved&label=&color=red&style=for-the-badge" />
+      </td>
+      <td align="center" width="90">
+        <b>📊 Total</b><br/>
+        <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/ayushmishra12345/solved&query=$.solvedProblem&label=&color=blue&style=for-the-badge" />
+      </td>
+    </tr>
+  </table>
 </div>
-
-<br/>
-
-<p align="center">
-  <a href="https://leetcode.com/u/ayushmishra12345/">
-    <img src="https://img.shields.io/badge/🎯%20View%20Full%20Profile-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />
-  </a>
-</p>
 
 ---
 
