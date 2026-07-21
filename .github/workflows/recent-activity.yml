@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Update README with recent activity
-        uses: jamesgeorge007/github-activity-readme@master
+        uses: jamesgeorge007/github-activity-readme@v0.5.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
