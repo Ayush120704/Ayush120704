@@ -21,13 +21,13 @@
   <rect x="318" y="66" width="44" height="32" rx="6" fill="#00B8A3" opacity="0.25" />
   <text x="340" y="84" text-anchor="middle" fill="#00B8A3" font-size="12" font-weight="700">Easy</text>
   <text x="484" y="78" text-anchor="end" fill="#ffffff" font-size="22" font-weight="700">71</text>
-  <text x="492" y="78" text-anchor="start" fill="#8b949e" font-size="13">/ 956</text>
+  <text x="492" y="78" text-anchor="start" fill="#8b949e" font-size="13">/ 955</text>
   <rect x="310" y="120" width="240" height="56" rx="8" fill="#2d2d2d" />
   <rect x="310" y="120" width="60" height="56" rx="8" fill="#FFB800" opacity="0.15" />
   <rect x="318" y="132" width="44" height="32" rx="6" fill="#FFB800" opacity="0.25" />
   <text x="340" y="150" text-anchor="middle" fill="#FFB800" font-size="12" font-weight="700">Med.</text>
   <text x="484" y="144" text-anchor="end" fill="#ffffff" font-size="22" font-weight="700">129</text>
-  <text x="492" y="144" text-anchor="start" fill="#8b949e" font-size="13">/ 2088</text>
+  <text x="492" y="144" text-anchor="start" fill="#8b949e" font-size="13">/ 2089</text>
   <rect x="310" y="186" width="240" height="56" rx="8" fill="#2d2d2d" />
   <rect x="310" y="186" width="60" height="56" rx="8" fill="#FF375F" opacity="0.15" />
   <rect x="318" y="198" width="44" height="32" rx="6" fill="#FF375F" opacity="0.25" />
