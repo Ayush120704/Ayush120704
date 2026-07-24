@@ -53,7 +53,7 @@
   <text x="634" y="162" fill="#8b949e" font-size="11">Most Recent Badge</text>
   <text x="634" y="182" fill="#ffffff" font-size="16" font-weight="600">100 Days Badge 2026</text>
   <rect x="20" y="280" width="960" height="260" rx="12" fill="#1a1a1a" filter="url(#shadow)" />
-  <text x="44" y="316" fill="#ffffff" font-size="24" font-weight="700">497</text>
+  <text x="44" y="316" fill="#ffffff" font-size="24" font-weight="700">498</text>
   <text x="100" y="316" fill="#8b949e" font-size="14">submissions in the past one year</text>
   <text x="956" y="316" fill="#8b949e" font-size="12" text-anchor="end">ⓘ</text>
   <text x="956" y="338" fill="#8b949e" font-size="11" text-anchor="end">Total active days: </text>
