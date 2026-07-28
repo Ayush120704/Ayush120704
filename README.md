@@ -187,9 +187,9 @@ currently_learning: ["LLM Fine-tuning", "RAG Pipelines", "System Design"]
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush120704&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush120704&theme=default" />
-    <img width="98%" alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush120704&theme=tokyonight" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/profile-details.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/profile-details.svg" />
+    <img width="98%" alt="Profile Summary" src="./profile-summary-card-output/tokyonight/profile-details.svg" />
   </picture>
 </p>
 
@@ -197,27 +197,27 @@ currently_learning: ["LLM Fine-tuning", "RAG Pipelines", "System Design"]
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayush120704&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayush120704&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayush120704&theme=tokyonight" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/repos-per-language.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/repos-per-language.svg" />
+    <img src="./profile-summary-card-output/tokyonight/repos-per-language.svg" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayush120704&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayush120704&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayush120704&theme=tokyonight" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/most-commit-language.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/most-commit-language.svg" />
+    <img src="./profile-summary-card-output/tokyonight/most-commit-language.svg" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayush120704&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayush120704&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayush120704&theme=tokyonight" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/stats.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/stats.svg" />
+    <img src="./profile-summary-card-output/tokyonight/stats.svg" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayush120704&theme=tokyonight&utcOffset=5.5" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayush120704&theme=default&utcOffset=5.5" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayush120704&theme=tokyonight&utcOffset=5.5" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/productive-time.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/productive-time.svg" />
+    <img src="./profile-summary-card-output/tokyonight/productive-time.svg" />
   </picture>
 </p>
 
