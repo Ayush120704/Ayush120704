@@ -187,9 +187,9 @@ currently_learning: ["LLM Fine-tuning", "RAG Pipelines", "System Design"]
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/profile-details.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/profile-details.svg" />
-    <img width="98%" alt="Profile Summary" src="./profile-summary-card-output/tokyonight/profile-details.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/0-profile-details.svg" />
+    <img width="98%" alt="Profile Summary" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
   </picture>
 </p>
 
@@ -197,27 +197,27 @@ currently_learning: ["LLM Fine-tuning", "RAG Pipelines", "System Design"]
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/repos-per-language.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/repos-per-language.svg" />
-    <img src="./profile-summary-card-output/tokyonight/repos-per-language.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/1-repos-per-language.svg" />
+    <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/most-commit-language.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/most-commit-language.svg" />
-    <img src="./profile-summary-card-output/tokyonight/most-commit-language.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/2-most-commit-language.svg" />
+    <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/stats.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/stats.svg" />
-    <img src="./profile-summary-card-output/tokyonight/stats.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/3-stats.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/3-stats.svg" />
+    <img src="./profile-summary-card-output/tokyonight/3-stats.svg" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/productive-time.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/productive-time.svg" />
-    <img src="./profile-summary-card-output/tokyonight/productive-time.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/4-productive-time.svg" />
+    <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
   </picture>
 </p>
 
