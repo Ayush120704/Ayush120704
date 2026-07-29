@@ -27,13 +27,13 @@
   <rect x="318" y="132" width="44" height="32" rx="6" fill="#FFB800" opacity="0.25" />
   <text x="340" y="150" text-anchor="middle" fill="#FFB800" font-size="12" font-weight="700">Med.</text>
   <text x="484" y="144" text-anchor="end" fill="#ffffff" font-size="22" font-weight="700">133</text>
-  <text x="492" y="144" text-anchor="start" fill="#8b949e" font-size="13">/ 2092</text>
+  <text x="492" y="144" text-anchor="start" fill="#8b949e" font-size="13">/ 2091</text>
   <rect x="310" y="186" width="240" height="56" rx="8" fill="#2d2d2d" />
   <rect x="310" y="186" width="60" height="56" rx="8" fill="#FF375F" opacity="0.15" />
   <rect x="318" y="198" width="44" height="32" rx="6" fill="#FF375F" opacity="0.25" />
   <text x="340" y="216" text-anchor="middle" fill="#FF375F" font-size="12" font-weight="700">Hard</text>
   <text x="484" y="210" text-anchor="end" fill="#ffffff" font-size="22" font-weight="700">43</text>
-  <text x="492" y="210" text-anchor="start" fill="#8b949e" font-size="13">/ 957</text>
+  <text x="492" y="210" text-anchor="start" fill="#8b949e" font-size="13">/ 958</text>
   <rect x="610" y="20" width="390" height="240" rx="12" fill="#1a1a1a" filter="url(#shadow)" />
   <text x="634" y="56" fill="#8b949e" font-size="13">Badges</text>
   <text x="690" y="56" fill="#ffffff" font-size="24" font-weight="700">6</text>
@@ -57,9 +57,9 @@
   <text x="100" y="316" fill="#8b949e" font-size="14">submissions in the past one year</text>
   <text x="956" y="316" fill="#8b949e" font-size="12" text-anchor="end">ⓘ</text>
   <text x="956" y="338" fill="#8b949e" font-size="11" text-anchor="end">Total active days: </text>
-  <text x="956" y="338" fill="#ffffff" font-size="11" text-anchor="end">178</text>
+  <text x="956" y="338" fill="#ffffff" font-size="11" text-anchor="end">179</text>
   <text x="956" y="356" fill="#8b949e" font-size="11" text-anchor="end">Max streak: </text>
-  <text x="956" y="356" fill="#ffffff" font-size="11" text-anchor="end">178</text>
+  <text x="956" y="356" fill="#ffffff" font-size="11" text-anchor="end">179</text>
   <text x="44" y="334" fill="#8b949e" font-size="9">Aug</text>
   <text x="109" y="334" fill="#8b949e" font-size="9">Sep</text>
   <text x="161" y="334" fill="#8b949e" font-size="9">Oct</text>
@@ -438,7 +438,7 @@
   <rect x="720" y="340" width="11" height="11" rx="2" fill="#0E4429" />
   <rect x="720" y="353" width="11" height="11" rx="2" fill="#0E4429" />
   <rect x="720" y="366" width="11" height="11" rx="2" fill="#0E4429" />
-  <rect x="720" y="379" width="11" height="11" rx="2" fill="#1a1a1a" />
+  <rect x="720" y="379" width="11" height="11" rx="2" fill="#0E4429" />
   <text x="780" y="524" fill="#8b949e" font-size="10" text-anchor="end">Less</text>
   <rect x="820" y="516" width="11" height="11" rx="2" fill="#1a1a1a" />
   <rect x="833" y="516" width="11" height="11" rx="2" fill="#0E4429" />
