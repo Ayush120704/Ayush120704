@@ -71,6 +71,7 @@
   <text x="499" y="334" fill="#8b949e" font-size="9">Apr</text>
   <text x="551" y="334" fill="#8b949e" font-size="9">May</text>
   <text x="616" y="334" fill="#8b949e" font-size="9">Jun</text>
+  <text x="668" y="334" fill="#8b949e" font-size="9">Jul</text>
   <rect x="44" y="340" width="11" height="11" rx="2" fill="#1a1a1a" />
   <rect x="44" y="353" width="11" height="11" rx="2" fill="#1a1a1a" />
   <rect x="44" y="366" width="11" height="11" rx="2" fill="#1a1a1a" />
@@ -441,6 +442,7 @@
   <rect x="720" y="379" width="11" height="11" rx="2" fill="#0E4429" />
   <rect x="720" y="392" width="11" height="11" rx="2" fill="#0E4429" />
   <rect x="720" y="405" width="11" height="11" rx="2" fill="#0E4429" />
+  <rect x="720" y="418" width="11" height="11" rx="2" fill="#1a1a1a" />
   <text x="780" y="524" fill="#8b949e" font-size="10" text-anchor="end">Less</text>
   <rect x="820" y="516" width="11" height="11" rx="2" fill="#1a1a1a" />
   <rect x="833" y="516" width="11" height="11" rx="2" fill="#0E4429" />
