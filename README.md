@@ -271,7 +271,11 @@ currently_learning: ["LLM Fine-tuning", "RAG Pipelines", "System Design"]
 ## 📰 Latest Blog Posts
 
 <!-- BLOG_POSTS:START -->
-<!-- BLOG_POSTS:END -->
+ - 🚀 [Day 185 of Everyday Programming](https://medium.com/@ayush.mishra24/day-185-of-everyday-programming-36bb6ed63bea?source=rss-e1d717e223ea------2) — 2026-07-23
+ - 🎯 [Day 184 of Everyday Programming](https://medium.com/@ayush.mishra24/day-184-of-everyday-programming-f2c94d023d1b?source=rss-e1d717e223ea------2) — 2026-07-22
+ - 🎯 [Day 183 of Everyday Programming](https://medium.com/@ayush.mishra24/day-183-of-everyday-programming-a9ea25ccb4ad?source=rss-e1d717e223ea------2) — 2026-07-21
+ - 🚀 [Day 182 of Everyday Programming](https://medium.com/@ayush.mishra24/day-182-of-everyday-programming-05d1417d597d?source=rss-e1d717e223ea------2) — 2026-07-20
+ - 🎯 [Day 181 of Everyday Programming](https://medium.com/@ayush.mishra24/day-181-of-everyday-programming-11cdb31e8ab9?source=rss-e1d717e223ea------2) — 2026-07-19<!-- BLOG_POSTS:END -->
 
 > *Add your RSS feed URL to `.github/workflows/blog-posts.yml` to enable.*
 
