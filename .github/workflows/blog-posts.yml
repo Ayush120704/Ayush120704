@@ -17,7 +17,9 @@ jobs:
         with:
           comment_tag_name: BLOG_POSTS
           max_post_count: 5
-          feed_list: "https://medium.com/feed/@Ayush120704"
+          feed_list: |
+            https://dev.to/feed/your-username
+            # Add additional feeds below, one per line (replace the example above with your real feed URLs).
           template: "$newline - $randomEmoji(🎯,💡,🚀,📖) [$title]($url) — $date"
           date_format: "yyyy-mm-dd"
           commit_message: "chore: update recent blog posts"
