@@ -438,6 +438,7 @@
   <rect x="720" y="340" width="11" height="11" rx="2" fill="#0E4429" />
   <rect x="720" y="353" width="11" height="11" rx="2" fill="#0E4429" />
   <rect x="720" y="366" width="11" height="11" rx="2" fill="#0E4429" />
+  <rect x="720" y="379" width="11" height="11" rx="2" fill="#1a1a1a" />
   <text x="780" y="524" fill="#8b949e" font-size="10" text-anchor="end">Less</text>
   <rect x="820" y="516" width="11" height="11" rx="2" fill="#1a1a1a" />
   <rect x="833" y="516" width="11" height="11" rx="2" fill="#0E4429" />
