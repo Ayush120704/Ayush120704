@@ -57,7 +57,7 @@
   <text x="100" y="316" fill="#8b949e" font-size="14">submissions in the past one year</text>
   <text x="956" y="316" fill="#8b949e" font-size="12" text-anchor="end">ⓘ</text>
   <text x="956" y="338" fill="#8b949e" font-size="11" text-anchor="end">Total active days: </text>
-  <text x="956" y="338" fill="#ffffff" font-size="11" text-anchor="end">186</text>
+  <text x="956" y="338" fill="#ffffff" font-size="11" text-anchor="end">187</text>
   <text x="956" y="356" fill="#8b949e" font-size="11" text-anchor="end">Max streak: </text>
   <text x="956" y="356" fill="#ffffff" font-size="11" text-anchor="end">181</text>
   <text x="83" y="334" fill="#8b949e" font-size="9">Sep</text>
@@ -435,7 +435,7 @@
   <rect x="707" y="392" width="11" height="11" rx="2" fill="#0E4429" />
   <rect x="707" y="405" width="11" height="11" rx="2" fill="#1a1a1a" />
   <rect x="707" y="418" width="11" height="11" rx="2" fill="#1a1a1a" />
-  <rect x="720" y="340" width="11" height="11" rx="2" fill="#1a1a1a" />
+  <rect x="720" y="340" width="11" height="11" rx="2" fill="#0E4429" />
   <text x="780" y="524" fill="#8b949e" font-size="10" text-anchor="end">Less</text>
   <rect x="820" y="516" width="11" height="11" rx="2" fill="#1a1a1a" />
   <rect x="833" y="516" width="11" height="11" rx="2" fill="#0E4429" />
