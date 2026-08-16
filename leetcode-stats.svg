@@ -11,29 +11,29 @@
   </defs>
   <rect x="20" y="20" width="570" height="240" rx="12" fill="#1a1a1a" filter="url(#shadow)" />
   <circle cx="160" cy="120" r="72" fill="none" stroke="#333" stroke-width="10" stroke-dasharray="339.29200658769764 113.09733552923257" stroke-linecap="round" transform="rotate(-135 160 120)" />
-  <circle cx="160" cy="120" r="72" fill="none" stroke="url(#ringGrad)" stroke-width="10" stroke-dasharray="21.927895031767683 430.46144708516255" stroke-linecap="round" transform="rotate(-135 160 120)" />
+  <circle cx="160" cy="120" r="72" fill="none" stroke="url(#ringGrad)" stroke-width="10" stroke-dasharray="21.9061141576363 430.4832279592939" stroke-linecap="round" transform="rotate(-135 160 120)" />
   <text x="160" y="102" text-anchor="middle" fill="#ffffff" font-size="32" font-weight="700">260</text>
-  <text x="240" y="108" text-anchor="start" fill="#8b949e" font-size="14">/ 4023</text>
+  <text x="240" y="108" text-anchor="start" fill="#8b949e" font-size="14">/ 4027</text>
   <text x="160" y="132" text-anchor="middle" fill="#2ea043" font-size="13">✓ Solved</text>
-  <text x="160" y="152" text-anchor="middle" fill="#8b949e" font-size="12">3763 Attempting</text>
+  <text x="160" y="152" text-anchor="middle" fill="#8b949e" font-size="12">3767 Attempting</text>
   <rect x="310" y="54" width="240" height="56" rx="8" fill="#2d2d2d" />
   <rect x="310" y="54" width="60" height="56" rx="8" fill="#00B8A3" opacity="0.15" />
   <rect x="318" y="66" width="44" height="32" rx="6" fill="#00B8A3" opacity="0.25" />
   <text x="340" y="84" text-anchor="middle" fill="#00B8A3" font-size="12" font-weight="700">Easy</text>
   <text x="484" y="78" text-anchor="end" fill="#ffffff" font-size="22" font-weight="700">79</text>
-  <text x="492" y="78" text-anchor="start" fill="#8b949e" font-size="13">/ 959</text>
+  <text x="492" y="78" text-anchor="start" fill="#8b949e" font-size="13">/ 960</text>
   <rect x="310" y="120" width="240" height="56" rx="8" fill="#2d2d2d" />
   <rect x="310" y="120" width="60" height="56" rx="8" fill="#FFB800" opacity="0.15" />
   <rect x="318" y="132" width="44" height="32" rx="6" fill="#FFB800" opacity="0.25" />
   <text x="340" y="150" text-anchor="middle" fill="#FFB800" font-size="12" font-weight="700">Med.</text>
   <text x="484" y="144" text-anchor="end" fill="#ffffff" font-size="22" font-weight="700">137</text>
-  <text x="492" y="144" text-anchor="start" fill="#8b949e" font-size="13">/ 2101</text>
+  <text x="492" y="144" text-anchor="start" fill="#8b949e" font-size="13">/ 2103</text>
   <rect x="310" y="186" width="240" height="56" rx="8" fill="#2d2d2d" />
   <rect x="310" y="186" width="60" height="56" rx="8" fill="#FF375F" opacity="0.15" />
   <rect x="318" y="198" width="44" height="32" rx="6" fill="#FF375F" opacity="0.25" />
   <text x="340" y="216" text-anchor="middle" fill="#FF375F" font-size="12" font-weight="700">Hard</text>
   <text x="484" y="210" text-anchor="end" fill="#ffffff" font-size="22" font-weight="700">44</text>
-  <text x="492" y="210" text-anchor="start" fill="#8b949e" font-size="13">/ 963</text>
+  <text x="492" y="210" text-anchor="start" fill="#8b949e" font-size="13">/ 964</text>
   <rect x="610" y="20" width="390" height="240" rx="12" fill="#1a1a1a" filter="url(#shadow)" />
   <text x="634" y="56" fill="#8b949e" font-size="13">Badges</text>
   <text x="690" y="56" fill="#ffffff" font-size="24" font-weight="700">6</text>
