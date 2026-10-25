@@ -286,7 +286,7 @@ currently_learning: ["LLM Fine-tuning", "RAG Pipelines", "System Design"]
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2026 - To: 17 October 2026
+From: 17 October 2026 - To: 24 October 2026
 
 Total Time: 0 secs
 
